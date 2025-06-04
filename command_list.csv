@@ -1,0 +1,157 @@
+    1  mkdir
+    2  mkdir H_W10
+    3  cd H_W10
+    4  -c && rm ~/.bash_history
+    5  git config user.name "Daria Los"
+    6  clear
+    7  ls
+    8  git config user.name "Daria Los"
+    9  git config --global user.name "Daria Los"
+   10  $ git config --global user.name
+   11  git config --global user.name
+   12  git config --global user.email "losdashka256@gmail.com"
+   13  git config user.email
+   14  git clon https://github.com/Daria-L89/HW_10.git
+   15  git clone https://github.com/Daria-L89/HW_10.git
+   16  cd
+   17  cd H_W10
+   18  ls
+   19  touch text_ignore.txt
+   20  clear
+   21  mkdir Practic6
+   22  cd Practic6
+   23  git config user.name "Daria Los"
+   24  git config --global user.name "Daria Los"
+   25  git config --global user.email "losdashka256@gmail.com"
+   26  git config user.name
+   27  git clone https://github.com/Daria-L89/HW_10.git 
+   28  cd H_W10
+   29  git status
+   30  cd HW_10
+   31  git status
+   32  touch text_ignore.txt
+   33  git status
+   34  git add text.ignore.txt
+   35  git status
+   36  git add text_ignore.txt
+   37  git status
+   38  nano.gitignore
+   39  nano ,gitignore
+   40  git status
+   41  git comit -m "New modified"
+   42  git commit -m "New modified"
+   43  git status
+   44  git commit -m "New modified"
+   45  gir branch
+   46  git branch
+   47  nano .gitignore
+   48  cd H_W10
+   49  cd Practic6
+   50  cd H_W10
+   51  cd https://github.com/Daria-L89/HW_10.git
+   52  cd HW_10
+   53  git status
+   54  git push
+   55  git add text_ignore.txt
+   56  git status
+   57  git add "text_ignore.txt"
+   58  git status
+   59  git add text_ignore.txt.gitignore
+   60  git status
+   61  git commit -m "New modified"
+   62  git add <text_ignore.txt>
+   63  none .gitignore
+   64  clean
+   65  clear
+   66  git status
+   67  vim .gitignore
+   68  cd Practice6
+   69  cd Practic6
+   70  cd Practic6
+   71  cd HW_10/
+   72  git status
+   73  git add text_ignore.txt
+   74  git commit -m "Ignore text_ignore.txt"
+   75  git status
+   76  git add -f text_ignore.txt
+   77  git commit -m "Force adding text_ignore.txt"
+   78  cd Practic6
+   79  ls
+   80  vim .gitignore
+   81  cd Practic6
+   82  cd HW_10/
+   83  git status
+   84  cd Practic6
+   85  cd HW_10/
+   86  nano .gitignore
+   87  git status
+   88  git add -f text_ignore.txt
+   89  git commit -m "Force adding text_ignore.txt"
+   90  git add .gitignore
+   91  git status
+   92  git commit -m "Modified .gitignore"
+   93  touch main_test.txt
+   94  git add main_test.txt
+   95  git commit -m "Create main_test.txt"
+   96  git branch
+   97  git checkout -b develop
+   98  git branch
+   99  git checkout develop
+  100  touch develop_test.txt
+  101  git add develop_test.txt
+  102  git commit -m "Create develop_test.txt"
+  103  nano develop_text.txt
+  104  git status
+  105  git add develop_test.txt
+  106  git commit -m "Changes for develop_test.txt"
+  107  checkout main
+  108  git checkout main
+  109  git branch
+  110  git merge develop
+  111  git branch
+  112  git status
+  113  git commit
+  114  git checkout develop
+  115  git branch
+  116  git merge main
+  117  git status
+  118  git commit
+  119  git status
+  120  git log
+  121  git commit -m "New modified"
+  122  git log
+  123  command_list.csv
+  124  git command_list.csv
+  125  git BASH command_list.csv
+  126  git --help
+  127  cd HW_10
+  128  git branch main
+  129  git command_list.csv
+  130  git push command_list.csv
+  131  history > command_list.csv
+  132  git push
+  133  git push --set-upstream orogin develop
+  134  git push --set-upstream origin develop
+  135  git push
+  136  git push -u orogin main
+  137  git push -u origin main
+  138  git push -u origin develop
+  139  clear
+  140  git push
+  141  git push
+  142  git branch
+  143  git branch main
+  144  git add history > command_list.csv
+  145  git add command_list.csv
+  146  git commit -m "Download history"
+  147  git push
+  148  git push
+  149  git push --set-upstream origin develop
+  150  git push
+  151   git push --set-upstream origin develop
+  152  nano develop_test.txt
+  153  git add develop_test.txt
+  154  git commit -m "Change in develop_test.txt"
+  155  git push
+  156  git history > command_list.csv
+  157  history > command_list.csv
